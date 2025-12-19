@@ -1,0 +1,10 @@
+Package: com.netskao.wcabtestapnsheadimg
+Name: WCABTestApnsHeadImg
+Version: 1.1-1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.netskao.wechatnotiavatar
+Description: WeChat Enable Apns Show Message Head Image, Only 8.0.67+
+Author: Netskao
+Maintainer: Nets
+Section: Netskao-Tweaks
